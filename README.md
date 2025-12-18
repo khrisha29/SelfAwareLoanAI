@@ -24,9 +24,6 @@ This project implements a confidence-aware loan approval system that allows a ma
 ## Dataset
 Loan approval dataset sourced from Kaggle.
 
-## Author
-Khrisha
-
 ## Interactive Prototype
 
 This project includes a Streamlit-based web prototype that demonstrates:
