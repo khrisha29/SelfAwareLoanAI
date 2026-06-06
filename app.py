@@ -126,6 +126,4 @@ This design ensures safe, explainable, and scalable credit decisions.
 # FOOTER
 # ======================================================
 st.markdown("<hr>", unsafe_allow_html=True)
-st.caption("© 2025 • AI-powered Credit Risk Prototype • Built with Streamlit")
-
-
+st.caption("© 2025 • AI-powered Credit Risk Prototype • Built ny Khrisha")
